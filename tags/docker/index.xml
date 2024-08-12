@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Hugo Blog</title>
+    <link>https://varluoluo.github.io/tags/docker/</link>
+    <description>Recent content in Docker on Hugo Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 07:45:30 +0000</lastBuildDate>
+    <atom:link href="https://varluoluo.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>有意思的Docker项目</title>
+      <link>https://varluoluo.github.io/post/docker/awesome-docker/</link>
+      <pubDate>Sat, 10 Aug 2024 15:52:08 +0800</pubDate>
+      <guid>https://varluoluo.github.io/post/docker/awesome-docker/</guid>
+      <description>Wait &amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
